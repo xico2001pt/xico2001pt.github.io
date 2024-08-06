@@ -1,9 +1,9 @@
 ---
 title: Robot Mazes
 media_subpath: /images/
-# image:
-#   path: mobile-car-driving.png
-#   alt: Example of real-life detection scenarios
+image:
+  path: robot-mazes.png
+  alt: Maze Example
 description: >-
     Android application that provides driver assistance via computer vision and Object Detection using Deep Learning.
 date: 2022-04-25
