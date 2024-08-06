@@ -6,6 +6,9 @@ order: 2
 
 Here is a short overview of the work carried out during my studies. Each section will show an overview of the Curricular Units I’ve taken, their grade and corresponding value in the ECTS scale and a link to the project(s) developed, if applicable.
 
+> Projects preceded by the 📁 emoji will redirect to the respective post on this website, while the remaining will redirect to external links.
+{: .prompt-info }
+
 ## Table of Contents
 - [MSc in Informatics and Computing Engineering](#msc-in-informatics-and-computing-engineering)
   - [1st Year](#1st-year)
@@ -62,11 +65,11 @@ Here is a short overview of the work carried out during my studies. Each section
 | [Computer Architecture and Organization](https://github.com/xico2001pt/feup-aoco) | 17 |  | --- |
 | [Complements of Mathematics](https://github.com/xico2001pt/feup-cmat) | 19 |  | --- |
 | [Physics I](https://github.com/xico2001pt/feup-fisi1) | 16 |  | --- |
-| [Programming Fundamentals](https://github.com/xico2001pt/feup-fpro) | 19 |  | TODO |
+| [Programming Fundamentals](https://github.com/xico2001pt/feup-fpro) | 19 |  | 📁 [New Flash Gordon]({{ site.baseurl }}{% link _posts/projects/2020-01-11-new-flash-gordon.md %})
 | [Discrete Mathematics](https://github.com/xico2001pt/feup-mdis) | 16 |  | --- |
 | [Statistical Methods](https://github.com/xico2001pt/feup-mest) | 18 |  | [Comments Prediction](https://github.com/filipepcampos/feup-mest-proj) |
 | [Microprocessors and Personal Computers](https://github.com/xico2001pt/feup-mpcp) | 17 |  | --- |
-| [Programming](https://github.com/xico2001pt/feup-prog) | 18 | | Oware & TODO |
+| [Programming](https://github.com/xico2001pt/feup-prog) | 18 | | Oware & [Scrabble Junior Game](https://github.com/xico2001pt/scrabble-junior-game) |
 
 ### 2nd Year
 
@@ -76,8 +79,8 @@ Here is a short overview of the work carried out during my studies. Each section
 | [Physics II](https://github.com/xico2001pt/feup-fisi2) | 19 |  | --- |
 | [Computing Theory](https://github.com/xico2001pt/feup-tcom) | 19 |  | --- |
 | [Operating Systems](https://github.com/xico2001pt/feup-sope) | 18 |  | [xmod](https://github.com/xico2001pt/sope-xmod) & [Client-Server App](https://github.com/adr1an0s0ar3s/feup-sope-20-21) | 
-| [Object Oriented Programming Laboratory](https://github.com/xico2001pt/feup-lpoo) | 17 |  | TODO |
-| [Computer Laboratory](https://github.com/xico2001pt/feup-lcom) | 18 |  | TODO |
+| [Object Oriented Programming Laboratory](https://github.com/xico2001pt/feup-lpoo) | 17 |  | 📁 [Jetpack Joyride]({{ site.baseurl }}{% link _posts/projects/2021-05-30-jetpack-joyride.md %})
+| [Computer Laboratory](https://github.com/xico2001pt/feup-lcom) | 18 |  | 📁 [CFLAP]({{ site.baseurl }}{% link _posts/projects/2021-02-04-cflap.md %})
 | [Databases](https://github.com/xico2001pt/feup-bdad) | 17 |  | [Network of Vaccination Centers](https://github.com/adr1an0s0ar3s/feup-bdad-20-21)
 | [Numerical Methods](https://github.com/xico2001pt/feup-mnum) | 16 |  | [Pharmacokinetics](https://github.com/xico2001pt/feup-mnum/tree/main/Projeto)
 | [Algorithm Design and Analysis](https://github.com/xico2001pt/feup-cal) | 19 |  | TODO |

@@ -1,5 +1,5 @@
 ---
-layout: home
-icon: fa-solid fa-screwdriver-wrench
+layout: projects
+icon: fa-solid fa-folder-open
 order: 1
 ---

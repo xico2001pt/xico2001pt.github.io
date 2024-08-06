@@ -5,8 +5,7 @@ image:
   path: flash-gordon.png
   alt: Flash Gordon Game UI
 description: >-
-  Get started with Chirpy basics in this comprehensive overview.
-  You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
+  Remake of the classic Atari game Flash Gordon with improved graphics.
 date: 2020-01-11
 categories: [Project]
 tags: []
@@ -28,7 +27,7 @@ pin: false
 
 - **Programming Languages:** Python
 - **Libraries:** Pygame
-- **Tools:** GIMP
+- **Tools:** GIMP (Graphics)
 
 ## Demonstration
 
