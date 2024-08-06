@@ -32,3 +32,7 @@ pin: false
 ## Links
 
 - [GitHub Repository](https://github.com/xico2001pt/lpoo-jetpack-joyride)
+
+## Acknowledgements
+
+This project also had the contribution of [Adriano Soares](https://github.com/adr1an0s0ar3s) and [Catarina Pires](https://github.com/catarinaopires).
