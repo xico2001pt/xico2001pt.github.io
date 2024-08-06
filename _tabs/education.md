@@ -1,6 +1,7 @@
 ---
+layout: page
 icon: fa-solid fa-graduation-cap
-order: 1
+order: 2
 ---
 
 Here is a short overview of the work carried out during my studies. Each section will show an overview of the Curricular Units I’ve taken, their grade and corresponding value in the ECTS scale and a link to the project(s) developed, if applicable.
