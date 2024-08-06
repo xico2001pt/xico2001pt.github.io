@@ -33,7 +33,7 @@ Here is a short overview of the work carried out during my studies. Each section
 | [Information Processing and Retrieval](https://github.com/xico2001pt/feup-pri) | 16 | | [Book Quotes Information Search System](https://github.com/filipepcampos/feup-pri) |
 | [Interactive Graphics Systems](https://github.com/xico2001pt/feup-sgi) | 20 | A | TODO |
 | Project Management Laboratory | | | TODO |
-| [Optimization](https://github.com/xico2001pt/feup-o) | 14 | | Temporary Staffing at Good’OldGood's - TODO |
+| [Optimization](https://github.com/xico2001pt/feup-o) | 14 | | [Temporary Staffing at Good’OldGood's](https://github.com/filipepcampos/feup-optimization) |
 | [Natural Language Processing](https://github.com/xico2001pt/feup-pln) | 18 | | [MN-DS-News Classifier](https://github.com/filipepcampos/feup-pln-assignment1) |
 | [Embedded and Real Time Systems](https://github.com/xico2001pt/feup-setr) | 15 | | TODO |
 | [Computer Vision](https://github.com/xico2001pt/feup-vc) | 17 | | TODO |
@@ -84,7 +84,7 @@ Here is a short overview of the work carried out during my studies. Each section
 | [Databases](https://github.com/xico2001pt/feup-bdad) | 17 |  | [Network of Vaccination Centers](https://github.com/adr1an0s0ar3s/feup-bdad-20-21)
 | [Numerical Methods](https://github.com/xico2001pt/feup-mnum) | 16 |  | [Pharmacokinetics](https://github.com/xico2001pt/feup-mnum/tree/main/Projeto)
 | [Algorithm Design and Analysis](https://github.com/xico2001pt/feup-cal) | 19 |  | TODO |
-| [Computer Graphics](https://github.com/xico2001pt/feup-cgra) | 19 |  | TODO |
+| [Computer Graphics](https://github.com/xico2001pt/feup-cgra) | 19 |  | 📁 [Fish Simulator 2021]({{ site.baseurl }}{% link _posts/projects/2021-06-30-fish-simulator-2021.md %}) |
 
 ### 3rd Year
 
@@ -92,11 +92,11 @@ Here is a short overview of the work carried out during my studies. Each section
 | --- | --- | --- | --- |
 | [Functional and Logic Programming](https://github.com/xico2001pt/feup-pfl) | 19 |  | [BigNumbers](https://github.com/filipepcampos/feup-pfl-proj/tree/master/BigNumbers) & [Renpaarden](https://github.com/filipepcampos/feup-pfl-proj/tree/master/Renpaarden) |
 | [Computer Networks](https://github.com/xico2001pt/feup-rc) | 17 |  | [Data Link Protocol](https://github.com/xico2001pt/rc-serial-port) & [FTP App](https://github.com/xico2001pt/rc-download-application)
-| [Web Languages and Technologies](https://github.com/xico2001pt/feup-ltw) | 18 |  | TODO |
+| [Web Languages and Technologies](https://github.com/xico2001pt/feup-ltw) | 18 |  | 📁 [The Rise of LTW (Mancala Edition)]({{ site.baseurl }}{% link _posts/projects/2022-01-23-the-rise-of-ltw.md %}) |
 | [Computer Security Foundations](https://github.com/xico2001pt/feup-fsi) | 16 |  | --- |
-| [Database and Web Applications Laboratory](https://github.com/xico2001pt/feup-lbaw) | 18 |  | TODO |
-| [Software Engineering](https://github.com/xico2001pt/feup-es) | 19 |  | TODO |
+| [Database and Web Applications Laboratory](https://github.com/xico2001pt/feup-lbaw) | 18 |  | [Eventful](https://github.com/xico2001pt/feup-lbaw/tree/main/lbaw2122) |
+| [Software Engineering](https://github.com/xico2001pt/feup-es) | 19 |  | [UniCalendar](https://github.com/xico2001pt/feup-es/tree/master/UniCalendar) |
 | [Compilers](https://github.com/xico2001pt/feup-c) | 19 |  | [JMM Compiler](https://github.com/filipepcampos/jmm_compiler) |
 | [Parallel and Distributed Computing](https://github.com/xico2001pt/feup-cpd) | 17 |  | [Single Core Performance Evaluation](https://github.com/xico2001pt/feup-cpd/tree/main/projects/assign1) & [Distributed and Partitioned Key-Value Store](https://github.com/xico2001pt/feup-cpd/tree/main/projects/assign2) |
-| [Capstone Project](https://github.com/xico2001pt/feup-pi) | 18 |  | TODO |
-| [Artificial Intelligence](https://github.com/xico2001pt/feup-ia) | 19 |  | TODO & [Sample Telco Customer Churn](https://github.com/filipepcampos/telco-churn-classification) |
+| [Capstone Project](https://github.com/xico2001pt/feup-pi) | 18 |  | 📁 [Mobile Car Driving]({{ site.baseurl }}{% link _posts/projects/2022-06-11-mobile-car-driving.md %}) |
+| [Artificial Intelligence](https://github.com/xico2001pt/feup-ia) | 19 |  | 📁 [Robot Mazes]({{ site.baseurl }}{% link _posts/projects/2022-04-25-robot-mazes.md %}) & [Sample Telco Customer Churn](https://github.com/filipepcampos/telco-churn-classification) |
