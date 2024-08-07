@@ -5,8 +5,8 @@ refactor: true
 
 {% include lang.html %}
 
-{% assign pinned = site.posts.Project | where: 'pin', 'true' %}
-{% assign default = site.categories.Project | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
+{% assign pinned = site.posts.Projects | where: 'pin', 'true' %}
+{% assign default = site.categories.Projects | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 
 {% assign posts = pinned | concat: default %}
 

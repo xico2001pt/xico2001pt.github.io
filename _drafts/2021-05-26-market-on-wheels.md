@@ -7,7 +7,7 @@ image:
 description: >-
   A
 date: 2021-05-26
-categories: [Project]
+categories: [Projects]
 tags: []
 pin: false
 ---

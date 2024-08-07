@@ -16,7 +16,7 @@ timezone: Europe/Lisbon
 
 title: Francisco Cerqueira # the main title
 
-tagline: Francisco Cerqueira's personal website # it will display as the sub-title
+tagline: # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Francisco Cerqueira's personal website

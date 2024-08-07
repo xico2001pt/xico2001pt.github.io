@@ -7,7 +7,7 @@ image:
 description: >-
   Web version of the Mancala game, allowing for Singleplayer and Multiplayer modes.
 date: 2022-01-23
-categories: [Project]
+categories: [Projects]
 tags: []
 pin: false
 ---
