@@ -21,7 +21,7 @@ Here is an overview of the work carried out during my studies. Each section will
 ## MSc in Informatics and Computing Engineering
 
 - **Institution:** Faculdade de Engenharia da Universidade do Porto (FEUP)
-- **Duration:** 2022-2024
+- **Duration:** September 2022 - July 2024
 - **Final Grade:** 18
 
 ### 2nd Year
@@ -34,7 +34,7 @@ Here is an overview of the work carried out during my studies. Each section will
 | [Intelligent Robotics](https://github.com/xico2001pt/feup-ri) | 19 | | 📁 [Reactive Wall Following Robot]({{ site.baseurl }}{% link _posts/projects/2023-10-23-wall-following.md %}) <br>📁 [DuckieBot Follower]({{ site.baseurl }}{% link _posts/projects/2024-01-09-duckiebot.md %}) |
 | [Software Testing, Verification and Validation](https://github.com/xico2001pt/feup-tvvs) | 19 | | [Mutation Testing](https://github.com/xico2001pt/feup-tvvs/tree/main/Projeto) |
 | [Advanced Topics in Interaction and Multimedia](https://github.com/xico2001pt/feup-taim) | 18 | | 📁 [WiiFly]({{ site.baseurl }}{% link _posts/projects/2024-01-11-wiifly.md %}) |
-| [Dissertation](https://github.com/xico2001pt/feup-dissertation) | 18 | | TODO |
+| [Dissertation](https://github.com/xico2001pt/feup-dissertation) | 18 | | 📁 [Exploring Label Efficiency with Semi-Supervision and Self-Supervision Methods]({{ site.baseurl }}{% link _posts/projects/2024-07-05-exploring-label-efficiency.md %}) |
 
 ### 1st Year
 
@@ -53,7 +53,7 @@ Here is an overview of the work carried out during my studies. Each section will
 ## BSc in Informatics and Computing Engineering
 
 - **Institution:** Faculdade de Engenharia da Universidade do Porto (FEUP)
-- **Duration:** 2019-2022
+- **Duration:** September 2019 - July 2022
 - **Final Grade:** 18
 
 ### 3rd Year
