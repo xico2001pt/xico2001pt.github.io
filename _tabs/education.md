@@ -31,7 +31,7 @@ Here is an overview of the work carried out during my studies. Each section will
 | [Lifelong Employability](https://github.com/xico2001pt/feup-eav) | 20 | A | --- |
 | [Modelling and Simulation](https://github.com/xico2001pt/feup-ms) | 19 | | 📁 [Charging stations distribution for e-mobility]({{ site.baseurl }}{% link _posts/projects/2024-01-03-charging-stations.md %}) |
 | [Dissertation Planning](https://github.com/xico2001pt/feup-pd) | 19 | | --- |
-| [Intelligent Robotics](https://github.com/xico2001pt/feup-ri) | 19 | | 📁 [Reactive Wall Following Robot]({{ site.baseurl }}{% link _posts/projects/2023-10-23-wall-following.md %}) <br>📁 [DuckieBot Follower]({{ site.baseurl }}{% link _posts/projects/2024-01-09-duckiebot.md %}) |
+| [Intelligent Robotics](https://github.com/xico2001pt/feup-ri) | 18 | | 📁 [Reactive Wall Following Robot]({{ site.baseurl }}{% link _posts/projects/2023-10-23-wall-following.md %}) <br>📁 [DuckieBot Follower]({{ site.baseurl }}{% link _posts/projects/2024-01-09-duckiebot.md %}) |
 | [Software Testing, Verification and Validation](https://github.com/xico2001pt/feup-tvvs) | 19 | | [Mutation Testing](https://github.com/xico2001pt/feup-tvvs/tree/main/Projeto) |
 | [Advanced Topics in Interaction and Multimedia](https://github.com/xico2001pt/feup-taim) | 18 | | 📁 [WiiFly]({{ site.baseurl }}{% link _posts/projects/2024-01-11-wiifly.md %}) |
 | [Dissertation](https://github.com/xico2001pt/feup-dissertation) | 18 | | 📁 [Exploring Label Efficiency with Semi-Supervision and Self-Supervision Methods]({{ site.baseurl }}{% link _posts/projects/2024-07-05-exploring-label-efficiency.md %}) |
@@ -41,10 +41,10 @@ Here is an overview of the work carried out during my studies. Each section will
 | Curricular Unit | Grade | ECTS Grade | Project |
 | --- | --- | --- | --- |
 | [Machine Learning](https://github.com/xico2001pt/feup-ac) | 17 | | [Bank Loan Prediction](https://github.com/adr1an0s0ar3s/feup-ac-22-23) | 
-| [Large Scale Software Development](https://github.com/xico2001pt/feup-ds) | 17 | | TODO |
+| [Large Scale Software Development](https://github.com/xico2001pt/feup-ds) | 17 | | Shift Planner |
 | [Information Processing and Retrieval](https://github.com/xico2001pt/feup-pri) | 16 | | [Book Quotes Information Search System](https://github.com/filipepcampos/feup-pri) |
 | [Interactive Graphics Systems](https://github.com/xico2001pt/feup-sgi) | 20 | A | 📁 [Checkers]({{ site.baseurl }}{% link _posts/projects/2023-01-02-checkers.md %}) |
-| Project Management Laboratory | | | TODO |
+| [Project Management Laboratory](https://github.com/xico2001pt/feup-lgp) | 18 | | 📁 [OurLive]({{ site.baseurl }}{% link _posts/projects/2023-05-31-ourlive.md %}) |
 | [Optimization](https://github.com/xico2001pt/feup-o) | 14 | | [Temporary Staffing at Good’OldGood's](https://github.com/filipepcampos/feup-optimization) |
 | [Natural Language Processing](https://github.com/xico2001pt/feup-pln) | 18 | | [MN-DS-News Classifier](https://github.com/filipepcampos/feup-pln-assignment1) |
 | [Embedded and Real Time Systems](https://github.com/xico2001pt/feup-setr) | 15 |  | 📁 [ArUcoBot]({{ site.baseurl }}{% link _posts/projects/2023-06-06-arucobot.md %}) |
@@ -83,7 +83,7 @@ Here is an overview of the work carried out during my studies. Each section will
 | [Computer Laboratory](https://github.com/xico2001pt/feup-lcom) | 18 |  | 📁 [CFLAP]({{ site.baseurl }}{% link _posts/projects/2021-02-04-cflap.md %})
 | [Databases](https://github.com/xico2001pt/feup-bdad) | 17 |  | [Network of Vaccination Centers](https://github.com/adr1an0s0ar3s/feup-bdad-20-21)
 | [Numerical Methods](https://github.com/xico2001pt/feup-mnum) | 16 |  | [Pharmacokinetics](https://github.com/xico2001pt/feup-mnum/tree/main/Projeto)
-| [Algorithm Design and Analysis](https://github.com/xico2001pt/feup-cal) | 19 |  | TODO |
+| [Algorithm Design and Analysis](https://github.com/xico2001pt/feup-cal) | 19 |  | [Market on Wheels](https://github.com/adr1an0s0ar3s/feup-cal-20-21) |
 | [Computer Graphics](https://github.com/xico2001pt/feup-cgra) | 19 |  | 📁 [Fish Simulator 2021]({{ site.baseurl }}{% link _posts/projects/2021-06-30-fish-simulator-2021.md %}) |
 
 ### 1st Year
