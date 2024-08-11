@@ -1,0 +1,21 @@
+---
+layout: page
+refactor: true
+---
+
+{% include lang.html %}
+
+{% for exp in site.data.experience %}
+  <div>
+    <h2>{{ exp.role }}</h2>
+    <b>{{ exp.company }}</b> | {{ exp.location }}
+    <br>
+    <i>{{ exp.start_date }} - {{ exp.end_date }}</i>
+    <br>
+    <ul>
+      {% for item in exp.items %}
+        <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endfor %}
