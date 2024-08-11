@@ -11,9 +11,6 @@ layout: home
 
 <br>
 
-> Page under construction. Please check back later. 🚧
-{: .prompt-warning }
-
 <div style="border-bottom: 0px">
     <h2>
     👨‍💻 About Me:
