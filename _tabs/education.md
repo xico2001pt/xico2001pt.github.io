@@ -4,7 +4,7 @@ icon: fa-solid fa-graduation-cap
 order: 2
 ---
 
-Here is an overview of the work carried out during my studies. Each section will show an overview of the Curricular Units I’ve taken, their grade and corresponding value in the ECTS scale and a link to the project(s) developed, if applicable.
+Here is an overview of the work carried out during my studies. Each section will show an overview of the Curricular Units I’ve taken, their grade, and the corresponding value on the ECTS scale, as well as a link to the project(s) developed, if applicable.
 
 > Projects preceded by the 📁 emoji will redirect to the respective post on this website, while the remaining will redirect to external links.
 {: .prompt-info }
@@ -60,43 +60,43 @@ Here is an overview of the work carried out during my studies. Each section will
 
 | Curricular Unit | Grade | ECTS Grade | Project |
 | --- | --- | --- | --- |
-| [Functional and Logic Programming](https://github.com/xico2001pt/feup-pfl) | 19 |  | [BigNumbers](https://github.com/filipepcampos/feup-pfl-proj/tree/master/BigNumbers) <br> [Renpaarden](https://github.com/filipepcampos/feup-pfl-proj/tree/master/Renpaarden) |
-| [Computer Networks](https://github.com/xico2001pt/feup-rc) | 17 |  | [Data Link Protocol](https://github.com/xico2001pt/rc-serial-port) <br> [FTP App](https://github.com/xico2001pt/rc-download-application)
-| [Web Languages and Technologies](https://github.com/xico2001pt/feup-ltw) | 18 |  | 📁 [The Rise of LTW (Mancala Edition)]({{ site.baseurl }}{% link _posts/projects/2022-01-23-the-rise-of-ltw.md %}) |
-| [Computer Security Foundations](https://github.com/xico2001pt/feup-fsi) | 16 |  | --- |
-| [Database and Web Applications Laboratory](https://github.com/xico2001pt/feup-lbaw) | 18 |  | [Eventful](https://github.com/xico2001pt/feup-lbaw/tree/main/lbaw2122) |
-| [Software Engineering](https://github.com/xico2001pt/feup-es) | 19 |  | [UniCalendar](https://github.com/xico2001pt/feup-es/tree/master/UniCalendar) |
-| [Compilers](https://github.com/xico2001pt/feup-c) | 19 |  | [JMM Compiler](https://github.com/filipepcampos/jmm_compiler) |
-| [Parallel and Distributed Computing](https://github.com/xico2001pt/feup-cpd) | 17 |  | [Single Core Performance Evaluation](https://github.com/xico2001pt/feup-cpd/tree/main/projects/assign1) <br> [Distributed and Partitioned Key-Value Store](https://github.com/xico2001pt/feup-cpd/tree/main/projects/assign2) |
-| [Capstone Project](https://github.com/xico2001pt/feup-pi) | 18 |  | 📁 [Mobile Car Driving]({{ site.baseurl }}{% link _posts/projects/2022-06-11-mobile-car-driving.md %}) |
-| [Artificial Intelligence](https://github.com/xico2001pt/feup-ia) | 19 |  | 📁 [Robot Mazes]({{ site.baseurl }}{% link _posts/projects/2022-04-25-robot-mazes.md %}) <br> [Sample Telco Customer Churn](https://github.com/filipepcampos/telco-churn-classification) |
+| [Functional and Logic Programming](https://github.com/xico2001pt/feup-pfl) | 19 | A | [BigNumbers](https://github.com/filipepcampos/feup-pfl-proj/tree/master/BigNumbers) <br> [Renpaarden](https://github.com/filipepcampos/feup-pfl-proj/tree/master/Renpaarden) |
+| [Computer Networks](https://github.com/xico2001pt/feup-rc) | 17 | B | [Data Link Protocol](https://github.com/xico2001pt/rc-serial-port) <br> [FTP App](https://github.com/xico2001pt/rc-download-application)
+| [Web Languages and Technologies](https://github.com/xico2001pt/feup-ltw) | 18 | B | 📁 [The Rise of LTW (Mancala Edition)]({{ site.baseurl }}{% link _posts/projects/2022-01-23-the-rise-of-ltw.md %}) |
+| [Computer Security Foundations](https://github.com/xico2001pt/feup-fsi) | 16 | B | --- |
+| [Database and Web Applications Laboratory](https://github.com/xico2001pt/feup-lbaw) | 18 | B | [Eventful](https://github.com/xico2001pt/feup-lbaw/tree/main/lbaw2122) |
+| [Software Engineering](https://github.com/xico2001pt/feup-es) | 19 | B | [UniCalendar](https://github.com/xico2001pt/feup-es/tree/master/UniCalendar) |
+| [Compilers](https://github.com/xico2001pt/feup-c) | 19 | A | [JMM Compiler](https://github.com/filipepcampos/jmm_compiler) |
+| [Parallel and Distributed Computing](https://github.com/xico2001pt/feup-cpd) | 17 | B | [Single Core Performance Evaluation](https://github.com/xico2001pt/feup-cpd/tree/main/projects/assign1) <br> [Distributed and Partitioned Key-Value Store](https://github.com/xico2001pt/feup-cpd/tree/main/projects/assign2) |
+| [Capstone Project](https://github.com/xico2001pt/feup-pi) | 18 | A | 📁 [Mobile Car Driving]({{ site.baseurl }}{% link _posts/projects/2022-06-11-mobile-car-driving.md %}) |
+| [Artificial Intelligence](https://github.com/xico2001pt/feup-ia) | 19 | A | 📁 [Robot Mazes]({{ site.baseurl }}{% link _posts/projects/2022-04-25-robot-mazes.md %}) <br> [Sample Telco Customer Churn](https://github.com/filipepcampos/telco-churn-classification) |
 
 ### 2nd Year
 
 | Curricular Unit | Grade | ECTS Grade | Project |
 | --- | --- | --- | --- |
-| [Algorithms and Data Structures](https://github.com/xico2001pt/feup-aeda) | 19 |  | [StreamZ](https://github.com/filipepcampos/streamz) |
-| [Physics II](https://github.com/xico2001pt/feup-fisi2) | 19 |  | --- |
-| [Computing Theory](https://github.com/xico2001pt/feup-tcom) | 19 |  | --- |
-| [Operating Systems](https://github.com/xico2001pt/feup-sope) | 18 |  | [xmod](https://github.com/xico2001pt/sope-xmod) <br> [Client-Server App](https://github.com/adr1an0s0ar3s/feup-sope-20-21) | 
-| [Object Oriented Programming Laboratory](https://github.com/xico2001pt/feup-lpoo) | 17 |  | 📁 [Jetpack Joyride]({{ site.baseurl }}{% link _posts/projects/2021-05-30-jetpack-joyride.md %})
-| [Computer Laboratory](https://github.com/xico2001pt/feup-lcom) | 18 |  | 📁 [CFLAP]({{ site.baseurl }}{% link _posts/projects/2021-02-04-cflap.md %})
-| [Databases](https://github.com/xico2001pt/feup-bdad) | 17 |  | [Network of Vaccination Centers](https://github.com/adr1an0s0ar3s/feup-bdad-20-21)
-| [Numerical Methods](https://github.com/xico2001pt/feup-mnum) | 16 |  | [Pharmacokinetics](https://github.com/xico2001pt/feup-mnum/tree/main/Projeto)
-| [Algorithm Design and Analysis](https://github.com/xico2001pt/feup-cal) | 19 |  | [Market on Wheels](https://github.com/adr1an0s0ar3s/feup-cal-20-21) |
-| [Computer Graphics](https://github.com/xico2001pt/feup-cgra) | 19 |  | 📁 [Fish Simulator 2021]({{ site.baseurl }}{% link _posts/projects/2021-06-30-fish-simulator-2021.md %}) |
+| [Algorithms and Data Structures](https://github.com/xico2001pt/feup-aeda) | 19 | A | [StreamZ](https://github.com/filipepcampos/streamz) |
+| [Physics II](https://github.com/xico2001pt/feup-fisi2) | 19 | A | --- |
+| [Computing Theory](https://github.com/xico2001pt/feup-tcom) | 19 | A | --- |
+| [Operating Systems](https://github.com/xico2001pt/feup-sope) | 18 | A | [xmod](https://github.com/xico2001pt/sope-xmod) <br> [Client-Server App](https://github.com/adr1an0s0ar3s/feup-sope-20-21) | 
+| [Object Oriented Programming Laboratory](https://github.com/xico2001pt/feup-lpoo) | 17 | B | 📁 [Jetpack Joyride]({{ site.baseurl }}{% link _posts/projects/2021-05-30-jetpack-joyride.md %})
+| [Computer Laboratory](https://github.com/xico2001pt/feup-lcom) | 18 | B | 📁 [CFLAP]({{ site.baseurl }}{% link _posts/projects/2021-02-04-cflap.md %})
+| [Databases](https://github.com/xico2001pt/feup-bdad) | 17 | B | [Network of Vaccination Centers](https://github.com/adr1an0s0ar3s/feup-bdad-20-21)
+| [Numerical Methods](https://github.com/xico2001pt/feup-mnum) | 16 | B | [Pharmacokinetics](https://github.com/xico2001pt/feup-mnum/tree/main/Projeto)
+| [Algorithm Design and Analysis](https://github.com/xico2001pt/feup-cal) | 19 | A | [Market on Wheels](https://github.com/adr1an0s0ar3s/feup-cal-20-21) |
+| [Computer Graphics](https://github.com/xico2001pt/feup-cgra) | 19 | A | 📁 [Fish Simulator 2021]({{ site.baseurl }}{% link _posts/projects/2021-06-30-fish-simulator-2021.md %}) |
 
 ### 1st Year
 
 | Curricular Unit | Grade | ECTS Grade | Project |
 | --- | --- | --- | --- |
-| [Algebra](https://github.com/xico2001pt/feup-alge) | 19 |  | --- |
-| [Mathematical Analysis](https://github.com/xico2001pt/feup-amat) | 15 |  | --- |
-| [Computer Architecture and Organization](https://github.com/xico2001pt/feup-aoco) | 17 |  | --- |
-| [Complements of Mathematics](https://github.com/xico2001pt/feup-cmat) | 19 |  | --- |
-| [Physics I](https://github.com/xico2001pt/feup-fisi1) | 16 |  | --- |
-| [Programming Fundamentals](https://github.com/xico2001pt/feup-fpro) | 19 |  | 📁 [New Flash Gordon]({{ site.baseurl }}{% link _posts/projects/2020-01-11-new-flash-gordon.md %})
-| [Discrete Mathematics](https://github.com/xico2001pt/feup-mdis) | 16 |  | --- |
-| [Statistical Methods](https://github.com/xico2001pt/feup-mest) | 18 |  | [Comments Prediction](https://github.com/filipepcampos/feup-mest-proj) |
-| [Microprocessors and Personal Computers](https://github.com/xico2001pt/feup-mpcp) | 17 |  | --- |
-| [Programming](https://github.com/xico2001pt/feup-prog) | 18 | | Oware <br> [Scrabble Junior Game](https://github.com/xico2001pt/scrabble-junior-game) |
+| [Algebra](https://github.com/xico2001pt/feup-alge) | 19 | A | --- |
+| [Mathematical Analysis](https://github.com/xico2001pt/feup-amat) | 15 | C | --- |
+| [Computer Architecture and Organization](https://github.com/xico2001pt/feup-aoco) | 17 | A | --- |
+| [Complements of Mathematics](https://github.com/xico2001pt/feup-cmat) | 19 | A | --- |
+| [Physics I](https://github.com/xico2001pt/feup-fisi1) | 16 | B | --- |
+| [Programming Fundamentals](https://github.com/xico2001pt/feup-fpro) | 19 | A | 📁 [New Flash Gordon]({{ site.baseurl }}{% link _posts/projects/2020-01-11-new-flash-gordon.md %})
+| [Discrete Mathematics](https://github.com/xico2001pt/feup-mdis) | 16 | B | --- |
+| [Statistical Methods](https://github.com/xico2001pt/feup-mest) | 18 | A | [Comments Prediction](https://github.com/filipepcampos/feup-mest-proj) |
+| [Microprocessors and Personal Computers](https://github.com/xico2001pt/feup-mpcp) | 17 | B | --- |
+| [Programming](https://github.com/xico2001pt/feup-prog) | 18 | B | Oware <br> [Scrabble Junior Game](https://github.com/xico2001pt/scrabble-junior-game) |
