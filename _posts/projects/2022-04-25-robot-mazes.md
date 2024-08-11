@@ -8,7 +8,7 @@ description: >-
     Android application that provides driver assistance via computer vision and Object Detection using Deep Learning.
 date: 2022-04-25
 categories: [Projects]
-tags: []
+tags: [Game, AI]
 pin: false
 ---
 

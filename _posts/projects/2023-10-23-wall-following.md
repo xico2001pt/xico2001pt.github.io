@@ -7,7 +7,7 @@ description: >-
   Development of a reactive wall-following robot capable of navigating autonomously in a question-mark-shaped environment.
 date: 2023-10-23
 categories: [Projects]
-tags: []
+tags: [Robotics]
 pin: false
 ---
 

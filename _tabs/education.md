@@ -9,6 +9,9 @@ Here is an overview of the work carried out during my studies. Each section will
 > Projects preceded by the 📁 emoji will redirect to the respective post on this website, while the remaining will redirect to external links.
 {: .prompt-info }
 
+> Some of the ECTS grades are missing because I'm waiting for the University to provide them.
+{: .prompt-warning }
+
 ## Table of Contents
 - [MSc in Informatics and Computing Engineering](#msc-in-informatics-and-computing-engineering)
   - [2nd Year](#2nd-year)

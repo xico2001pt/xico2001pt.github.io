@@ -8,7 +8,7 @@ description: >-
   Developed in 48 hours for the RetroJam 2024 hosted by the IEEE UP Student Branch.
 date: 2024-05-15
 categories: [Projects]
-tags: []
+tags: [Game]
 pin: false
 ---
 

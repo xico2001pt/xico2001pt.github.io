@@ -7,7 +7,7 @@ description: >-
   Development of a DuckieBot follower capable of autonomously following a DuckieBot leader.
 date: 2024-01-09
 categories: [Projects]
-tags: []
+tags: [AI, Computer Vision, Machine Learning, Robotics, Simulation]
 pin: false
 ---
 

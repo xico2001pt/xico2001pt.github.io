@@ -7,7 +7,7 @@ description: >-
   Simulation model to analyze the distribution of charging stations for electric vehicles in Porto.
 date: 2024-01-03
 categories: [Projects]
-tags: []
+tags: [Simulation]
 pin: false
 ---
 

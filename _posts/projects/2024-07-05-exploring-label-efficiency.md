@@ -8,7 +8,7 @@ description: >-
   Software framework designed to leverage both Semi-Supervised and Self-Supervised Learning techniques to utilize unlabeled data effectively during the training process.
 date: 2024-07-05
 categories: [Projects]
-tags: []
+tags: [AI, Computer Vision, Machine Learning]
 pin: false
 ---
 

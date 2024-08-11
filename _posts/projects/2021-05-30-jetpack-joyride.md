@@ -8,7 +8,7 @@ description: >-
   Remake of the classic mobile game Jetpack Joyride with a minimalistic text-based design.
 date: 2021-05-30
 categories: [Projects]
-tags: []
+tags: [Game]
 pin: false
 ---
 

@@ -8,7 +8,7 @@ description: >-
   Development of an aquatic environment where the user controls a fish that must collect stones and stack them in its nest.
 date: 2021-06-30
 categories: [Projects]
-tags: []
+tags: [Game, Web]
 pin: false
 ---
 

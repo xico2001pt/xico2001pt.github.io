@@ -8,7 +8,7 @@ description: >-
   Remake of the classic Atari game Flash Gordon with improved graphics.
 date: 2020-01-11
 categories: [Projects]
-tags: []
+tags: [Game]
 pin: false
 ---
 

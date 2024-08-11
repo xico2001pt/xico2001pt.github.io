@@ -8,7 +8,7 @@ description: >-
   An AI agent that learns to park a vehicle in a vertical parking spot using Reinforcement Learning.
 date: 2024-07-30
 categories: [Projects]
-tags: []
+tags: [AI, Machine Learning, Simulation]
 pin: false
 ---
 
