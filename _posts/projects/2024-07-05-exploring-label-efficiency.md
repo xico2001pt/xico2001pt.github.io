@@ -8,7 +8,7 @@ description: >-
   Software framework designed to leverage both Semi-Supervised and Self-Supervised Learning techniques to utilize unlabeled data effectively during the training process.
 date: 2024-07-05
 categories: [Projects]
-tags: [AI, Computer Vision, Machine Learning]
+tags: [AI, Computer Vision, Framework, Machine Learning]
 pin: false
 ---
 
@@ -21,7 +21,7 @@ This project consists of a software framework designed to leverage both Semi-Sup
 - **Semi-Supervised Learning:** The framework supports Semi-Supervised Learning techniques, allowing the model to leverage both labeled and unlabeled data during the training process.
 - **Self-Supervised Learning:** The framework provides support for Self-Supervised Learning methods, enabling the model to learn from the data itself without requiring manual annotations.
 - **Modular Design:** The framework is designed with a modular architecture, allowing users to easily integrate new models, datasets, and training strategies.
-- **Extensive Documentation:** The framework includes detailed documentation and examples to guide users in implementing Semi-Supervised and Self-Supervised Learning techniques in their projects.
+- **Documentation:** The framework includes detailed documentation and examples to guide users in implementing Semi-Supervised and Self-Supervised Learning techniques in their projects.
 
 ## Technologies
 
